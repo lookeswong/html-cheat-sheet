@@ -1,0 +1,38 @@
+h1, h2 {
+  text-align: center;
+}
+
+h2 {
+  color: plum;
+}
+
+table {
+  border: 1px solid black;
+  border-color: palevioletred;
+  border-width: 2px;
+}
+
+td {
+  border-top: 1px solid lightpink;
+}
+
+table {
+  margin-left: auto;
+  margin-right: auto;
+  width: 650px;
+}
+
+thead {
+  background-color: lightpink;
+}
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: white;
+}
+
+.table-tag {
+  background-color: khaki;
+  font-family: monospace;
+}
+
